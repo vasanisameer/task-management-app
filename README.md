@@ -16,5 +16,5 @@ Before you begin, ensure you have the following installed on your machine:
 ### Step 1: Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/task-management-app.git
+git clone https://github.com/vasanisameer/task-management-app.git
 cd task-management-app
