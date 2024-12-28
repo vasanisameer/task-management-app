@@ -1,12 +1,12 @@
 # Task Management App
 ## Overview
-This is a Flutter-based Task Management App that allows users to create, update, and manage tasks. It uses SQLite for storing task data and Hive for user preferences. The app also features a dark mode, task sorting options, and local notifications for task reminders.
+This is a Flutter-based Task Management App that allows users to create, update, and manage tasks. It uses SQLite for storing task data and Hive for user preferences. The app also features a dark mode, task sorting options.
 ## Features
 - Create, view, edit, and delete tasks
 - Toggle between light and dark themes
-- Sort tasks by title or creation date
-- Receive notifications for task reminders
-- Save user preferences (theme and sorting options)
+- Sort tasks by title or status
+- responsible for mobile and tablet 
+- Save user preferences (theme and tasks)
 ## Prerequisites
 Before you begin, ensure you have the following installed on your machine:
 - **Flutter**: Follow the installation guide on the official Flutter website: https://flutter.dev/docs/get-started/install
